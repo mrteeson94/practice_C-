@@ -1,2 +1,5 @@
-﻿// See https://aka.ms/new-console-template for more information
-Console.WriteLine("Hello, World!");
+﻿//EX1 - HelloWorld print
+// HelloWorld.Hello();
+
+//EX2 - LucianLusciousLasagna
+

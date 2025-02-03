@@ -12,3 +12,4 @@ c:\Users\AKATY\Documents\GitHub\practice_C-\ExerciseConsole\obj\Debug\net9.0\ref
 c:\Users\AKATY\Documents\GitHub\practice_C-\ExerciseConsole\obj\Debug\net9.0\ExerciseConsole.pdb
 c:\Users\AKATY\Documents\GitHub\practice_C-\ExerciseConsole\obj\Debug\net9.0\ExerciseConsole.genruntimeconfig.cache
 c:\Users\AKATY\Documents\GitHub\practice_C-\ExerciseConsole\obj\Debug\net9.0\ref\ExerciseConsole.dll
+c:\Users\AKATY\Documents\GitHub\practice_C-\ExerciseConsole\obj\Debug\net9.0\ExerciseConsole.sourcelink.json
