@@ -1,0 +1,14 @@
+c:\Users\AKATY\Documents\GitHub\practice_C-\ExerciseConsole\bin\Debug\net9.0\ExerciseConsole.exe
+c:\Users\AKATY\Documents\GitHub\practice_C-\ExerciseConsole\bin\Debug\net9.0\ExerciseConsole.deps.json
+c:\Users\AKATY\Documents\GitHub\practice_C-\ExerciseConsole\bin\Debug\net9.0\ExerciseConsole.runtimeconfig.json
+c:\Users\AKATY\Documents\GitHub\practice_C-\ExerciseConsole\bin\Debug\net9.0\ExerciseConsole.dll
+c:\Users\AKATY\Documents\GitHub\practice_C-\ExerciseConsole\bin\Debug\net9.0\ExerciseConsole.pdb
+c:\Users\AKATY\Documents\GitHub\practice_C-\ExerciseConsole\obj\Debug\net9.0\ExerciseConsole.GeneratedMSBuildEditorConfig.editorconfig
+c:\Users\AKATY\Documents\GitHub\practice_C-\ExerciseConsole\obj\Debug\net9.0\ExerciseConsole.AssemblyInfoInputs.cache
+c:\Users\AKATY\Documents\GitHub\practice_C-\ExerciseConsole\obj\Debug\net9.0\ExerciseConsole.AssemblyInfo.cs
+c:\Users\AKATY\Documents\GitHub\practice_C-\ExerciseConsole\obj\Debug\net9.0\ExerciseConsole.csproj.CoreCompileInputs.cache
+c:\Users\AKATY\Documents\GitHub\practice_C-\ExerciseConsole\obj\Debug\net9.0\ExerciseConsole.dll
+c:\Users\AKATY\Documents\GitHub\practice_C-\ExerciseConsole\obj\Debug\net9.0\refint\ExerciseConsole.dll
+c:\Users\AKATY\Documents\GitHub\practice_C-\ExerciseConsole\obj\Debug\net9.0\ExerciseConsole.pdb
+c:\Users\AKATY\Documents\GitHub\practice_C-\ExerciseConsole\obj\Debug\net9.0\ExerciseConsole.genruntimeconfig.cache
+c:\Users\AKATY\Documents\GitHub\practice_C-\ExerciseConsole\obj\Debug\net9.0\ref\ExerciseConsole.dll
